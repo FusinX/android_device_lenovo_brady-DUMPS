@@ -1,2 +1,2 @@
 # android_device_lenovo_brady-DUMPS
-This is a dump for android 7.1.1 Lenovo K8 Firmware
+brady_retail-user 7.1.1 NMC26.51-41 41 release-keys
